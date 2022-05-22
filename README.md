@@ -1,2 +1,2 @@
-# SoftUni-Java-Basics
-course Programming Basics with Java from SoftUni
+SoftUni Software Engineering Program with Java
+the code from all courses from SoftUni Software Engineering Program with Java
